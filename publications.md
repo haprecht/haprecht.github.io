@@ -4,8 +4,8 @@ layout: default
 
 ## Welcome to another page
 
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchOrder': 2, 'mainBranchName': 'MetroLine1'}} }%%
-<div class="mermaid"> gitGraph TB:
+
+<div class="mermaid"> %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchOrder': 2, 'mainBranchName': 'MetroLine1'}} }%% gitGraph TB:
   commit
   commit
   branch develop
