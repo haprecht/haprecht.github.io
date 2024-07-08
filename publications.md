@@ -7,7 +7,7 @@ layout: default
 
 <div class="mermaid">
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MetroLine1'}} }%%
-      gitGraph
+      gitGraph TB
         commit id:"NewYork"
         commit id:"Dallas"
         branch MetroLine2
