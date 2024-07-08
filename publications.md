@@ -6,8 +6,8 @@ layout: default
 
 <div class="mermaid">
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': {
-              'tagLabelFontSize': '36px',
-              'commitLabelFontSize': '36px'
+              'tagLabelFontSize': '16px',
+              'commitLabelFontSize': '16px'
        }, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MetroLine1'}} }%%
       gitGraph TB:
         commit id:"NewYork"
