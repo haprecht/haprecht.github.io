@@ -5,7 +5,11 @@ layout: default
 ## Welcome to another page
 
 <div class="mermaid">
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MetroLine1'}} }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': {
+              'commitLabelColor': '#ff0000',
+              'commitLabelBackground': '#00ff00',
+              'tagLabelFontSize': '16px'
+       }, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MetroLine1'}} }%%
       gitGraph TB:
         commit id:"NewYork"
         commit id:"Dallas"
