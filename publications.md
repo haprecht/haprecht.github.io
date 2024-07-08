@@ -7,9 +7,8 @@ layout: default
 
 <div class="mermaid">
   gitGraph
-    commit id: "Initial commit"
     branch master
-    checkout master
+    commit id: "Initial commit"
     commit
     commit
     branch develop
