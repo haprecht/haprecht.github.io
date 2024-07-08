@@ -5,14 +5,16 @@ layout: default
 ## Welcome to another page
 
 
-<div class="mermaid"> 
-  gitGraph TB:
+<div class="mermaid">
+  gitGraph
+    commit id: "Initial commit"
+    branch master
+    checkout master
     commit
     commit
     branch develop
     commit
     commit
-    branch master
     checkout master
     commit
     commit
@@ -20,6 +22,7 @@ layout: default
     commit
     commit
 </div>
+
 
 
 [back](./)
