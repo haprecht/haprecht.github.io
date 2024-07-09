@@ -15,6 +15,8 @@ layout: default
         commit id:"Bachelor of Science Business Informatics"
         checkout Career
         commit id:"Junior Software Developer"
+        checkout Study
+        commit id:"Master of Science Computer Science"
 
 </div>
 
