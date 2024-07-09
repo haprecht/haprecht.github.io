@@ -16,7 +16,6 @@ layout: default
         checkout Career        
         commit id:"Junior Software Engineer"
         checkout Study
-        commit id: "Master of Science Computer Science"        
+        commit id:"Master of Science Computer Science"        
 </div>
-
 [back](./)
