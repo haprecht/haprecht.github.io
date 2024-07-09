@@ -5,7 +5,7 @@ layout: default
 ## Welcome to another page
 
 <div class="mermaid">
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': {
+%%{init: { 'logLevel': 'debug', 'theme': 'dark', 'themeVariables': {
               'tagLabelFontSize': '16px',
               'commitLabelFontSize': '16px'
        }, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Career'}} }%%
