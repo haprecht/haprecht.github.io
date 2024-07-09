@@ -9,7 +9,7 @@ layout: default
               'tagLabelFontSize': '16px',
               'commitLabelFontSize': '16px'
        }, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Career'}} }%%
-      gitGraph TB:
+      gitGraph :
         commit id:"Training as an IT specialist for application development"
         branch Study
         commit id:"Bachelor of Science Business Informatics"
