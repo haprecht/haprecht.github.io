@@ -20,12 +20,12 @@ layout: default
         checkout Career
         commit id:"Software Engineer"
         merge Study
-        commit id:"Research Associate"
+        commit id:"Research Associate HAPTIK"
         checkout Study
         commit id:"PhD Student"
         checkout Career
         commit id:"Tech Lead Startup @ HAPTIK"
-        commit id:"Research Associate"
+        commit id:"Research Associate TiPP"
         branch SideGigs
         commit id:"Software Engineer @ datenschmiede.ai"              
 </div>
