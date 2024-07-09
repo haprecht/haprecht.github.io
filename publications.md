@@ -17,6 +17,10 @@ layout: default
         commit id:"Junior Software Developer"
         checkout Study
         commit id:"Master of Science Computer Science"
+        checkout Career
+        commit id:"Software Engineer"
+        merge Study
+        
 
 </div>
 
