@@ -16,22 +16,7 @@ layout: default
         checkout Career        
         commit id:"Junior Software Engineer"
         checkout Study
-        commit id: "Master of Science Computer Science"
-        checkout Career
-        commit id:"Software Engineer"
-        merge Study
-        commit id:"Phoenix"
-        commit type: HIGHLIGHT id:"Denver"
-        commit id:"Boston"
-        checkout MetroLine1
-        commit id:"Atlanta"
-        merge MetroLine3
-        commit id:"Miami"
-        commit id:"Washington"
-        merge MetroLine2 tag:"MY JUNCTION"
-        commit id:"Boston"
-        commit id:"Detroit"
-        commit type:REVERSE id:"SanFrancisco"
+        commit id: "Master of Science Computer Science"        
 </div>
 
 [back](./)
