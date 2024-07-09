@@ -13,8 +13,8 @@ layout: default
         commit id:"Training as an IT specialist <br\>for application development"
         branch Study
         commit id:"Bachelor of Science <br\> Business Informatics"
-        checkout Career        
-        commit id:"Junior Software Engineer"
+        checkout Career
+        commit id:"Bachelor of Science <br\> Business Informatics"
 
 </div>
 
