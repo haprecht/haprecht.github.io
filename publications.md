@@ -8,15 +8,18 @@ layout: default
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': {
               'tagLabelFontSize': '16px',
               'commitLabelFontSize': '16px'
-       }, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MetroLine1'}} }%%
+       }, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Career'}} }%%
       gitGraph TB:
-        commit id:"NewYork"
-        commit id:"Dallas"
-        branch MetroLine2
-        commit id:"LosAngeles"
-        commit id:"Chicago"
-        commit id:"Houston"
-        branch MetroLine3
+        commit id:"Training as an IT specialist for application development"
+        branch Study
+        commit id:"Bachelor of Science Business Informatics"
+        checkout Career        
+        commit id:"Junior Software Engineer"
+        checkout Study
+        commit id: "Master of Science Computer Science"
+        checkout Career
+        commit id:"Software Engineer"
+        merge Study
         commit id:"Phoenix"
         commit type: HIGHLIGHT id:"Denver"
         commit id:"Boston"
