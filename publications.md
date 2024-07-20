@@ -8,26 +8,29 @@ layout: default
 %%{init: { 'logLevel': 'debug', 'theme': 'forest', 'themeVariables': {
               'tagLabelFontSize': '16px',
               'commitLabelFontSize': '16px'
-       }, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Career'}} }%%
-      gitGraph TB:
-        commit id:"Training as an IT specialist for application development"
-        branch Study
-        commit id:"Bachelor of Science Business Informatics"
-        checkout Career
-        commit id:"Junior Software Developer"
-        checkout Study
-        commit id:"Master of Science Computer Science"
-        checkout Career
-        commit id:"Software Engineer"
-        merge Study
-        commit id:"Research Associate HAPTIK"
-        checkout Study
-        commit id:"PhD Student"
-        checkout Career
-        commit id:"Tech Lead Startup @ HAPTIK"
-        commit id:"Research Associate TiPP"
-        branch SideGigs
-        commit id:"Software Engineer @ datenschmiede.ai"              
+       }, 
+  graph TD;
+    AA[Career] --> A1
+    A1[Training as an IT specialist 
+    for application development]
+    A2[Bachelor of Science 
+    Business Informatics]
+
+    A1 --> B[Junior Software Developer]
+    B --> C[Software Engineer]
+    C --> D[Research associate HAPTIK]
+    D --> H[Tech Lead Startup @ 
+    HAPTIK]
+    H --> E[Research associcate TiPP]
+    A2 --> B2[Master of Science
+    Computer Science]
+    B2 --> C2[PhD Student]
+    A1 --> A2
+    AB[Study] --> A2
+    B2 --> D
+    E --> A3
+    AC[Side Gigs]
+    AC --> A3[Software Developer @ datenschmiede.ai]           
 </div>
 
 [back](./)
