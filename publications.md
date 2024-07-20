@@ -15,8 +15,7 @@ layout: default
     A1 --> B[Junior Software Developer]
     B --> C[Software Engineer]
     C --> D[Research associate HAPTIK]
-    D --> H[Tech Lead Startup @ 
-    HAPTIK]
+    D --> H[Tech Lead Startup @ HAPTIK]
     H --> E[Research associcate TiPP]
     A2 --> B2[Master of Science
     Computer Science]
