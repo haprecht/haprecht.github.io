@@ -5,6 +5,9 @@ layout: default
 ## Welcome to another page
 
 <div class="mermaid">
+  {
+  "theme": "dark"
+},
   graph TD;
     AA[Career] --> A1
     A1[Training as an IT specialist 
