@@ -13,8 +13,17 @@ It will be updated shortly.
 
 ### What I did and what I'm doing
 
+<style>
+.cv-graph { line-height: 2; font-size: 18px; background: transparent; border: none; padding: 1em; }
+@media (max-width: 768px) {
+  .cv-graph { font-size: 14px; line-height: 1.8; padding: 0.5em 0.25em; }
+}
+@media (max-width: 480px) {
+  .cv-graph { font-size: 11px; line-height: 1.6; padding: 0.25em 0; }
+}
+</style>
 <div style="overflow-x: auto;">
-<pre style="line-height: 2; font-size: 18px; background: transparent; border: none; padding: 1em;">
+<pre class="cv-graph">
 <span style="color:#5cb85c">●</span>       <span style="color:#5cb85c">Apprenticeship as an IT specialist for application development</span>
 <span style="color:#5cb85c">│</span>       <span style="color:#5cb85c">@ <a href="https://www.btc-ag.com/" target="_blank" style="color:#5cb85c">BTC AG</a></span>
 <span style="color:#5cb85c">│</span><span style="color:#42a5f5">\</span>
