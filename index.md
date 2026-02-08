@@ -9,28 +9,35 @@ It will be updated shortly.
 
 
 ### What I did and what I'm doing
-<div class="mermaid">
-  graph TD;
-    AA[Career] --> A1
-    A1[Training as an IT specialist 
-    for application development]
-    A2[Bachelor of Science 
-    Business Informatics]
 
-    A1 --> B[Junior Software Developer]
-    B --> C[Software Engineer]
-    C --> D[Research associate HAPTIK]
-    D --> H[Tech Lead Startup @ HAPTIK]
-    H --> E[Research associcate TiPP]
-    A2 --> B2[Master of Science
-    Computer Science]
-    B2 --> C2[PhD Student]
-    A1 --> A2
-    AB[Study] --> A2
-    B2 --> D
-    E --> A3
-    AC[Side Gigs]
-    AC --> A3[Software Developer @ datenschmiede.ai]           
+<div style="overflow-x: auto;">
+<pre style="line-height: 2; font-size: 18px; background: transparent; border: none; padding: 1em;">
+<span style="color:#5cb85c">●</span>       <span style="color:#5cb85c">Apprenticeship as an IT specialist for application development @ <a href="https://www.btc-ag.com/" target="_blank">BTC AG</a></span>
+<span style="color:#5cb85c">│</span><span style="color:#42a5f5">\</span>
+<span style="color:#5cb85c">│</span> <span style="color:#42a5f5">\</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#42a5f5">●</span>     <span style="color:#42a5f5">Study 'Bachelor of Science Business Informatics</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#42a5f5">│</span>
+<span style="color:#5cb85c">●</span>  <span style="color:#42a5f5">│</span>     <span style="color:#5cb85c">Junior Software Engineer</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#42a5f5">│</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#42a5f5">●</span>     <span style="color:#42a5f5">Study 'Master of Science Computer Science</span>
+<span style="color:#5cb85c">│</span> <span style="color:#42a5f5">/</span>
+<span style="color:#5cb85c">│</span><span style="color:#42a5f5">/</span>
+<span style="color:#5cb85c">●</span>       <span style="color:#5cb85c">Software Engineer</span>
+<span style="color:#5cb85c">│</span>
+<span style="color:#5cb85c">●</span>       <span style="color:#5cb85c">Research Associate</span>
+<span style="color:#5cb85c">│</span><span style="color:#ce93d8">\</span>
+<span style="color:#5cb85c">│</span> <span style="color:#ce93d8">\</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#ce93d8">●</span>     <span style="color:#ce93d8">PhD Student</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#ce93d8">│</span>
+<span style="color:#5cb85c">●</span>  <span style="color:#ce93d8">│</span>     <span style="color:#5cb85c">Tech. Lead Startup HAPTIK</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#ce93d8">│</span>
+<span style="color:#5cb85c">●</span>  <span style="color:#ce93d8">│</span>     <span style="color:#5cb85c">Research Associate</span>
+<span style="color:#5cb85c">│</span><span style="color:#9e9e9e">\</span><span style="color:#ce93d8">│</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#ce93d8">│</span> <span style="color:#9e9e9e">\</span>
+<span style="color:#5cb85c">│</span>  <span style="color:#ce93d8">│</span>  <span style="color:#9e9e9e">●</span>     <span style="color:#9e9e9e">Software Engineer (part-time)</span>
+</pre>
 </div>
+
+
 
 [Publications](./publications.html)
